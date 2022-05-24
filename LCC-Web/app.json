@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "LCC-Web",
+    "slug": "LCC-Web",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "LCC-Web"
+}
